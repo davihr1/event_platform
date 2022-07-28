@@ -13,8 +13,8 @@ o conhecimento com Graphql
 - Graphql
 - ReactRouts
 ### Evento: [Ignite Lab - Reactjs]
-![](./.github/capa_original.png)
+![](./.github/capa_orginal.png)
 ===
 
 ---
-***</>*** **by [Rocketseat](https://github.com/rocketseat-education)**
+***</>*** **by [Davi Hr](https://github.com/davifa1)**

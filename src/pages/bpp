@@ -1,0 +1,16 @@
+// () => {
+//     return (
+//         <ul>
+//         {data?.teachers.map(teacher => {
+//           return <li key={teacher.id}>{teacher.name}</li>
+//         })}
+//       </ul>
+  
+//       {data?.teachers.map(teacher => {
+//         return <img key={teacher.id} src={teacher.avatarURL} alt='test'/>
+//       })}
+//       {data?.teachers.map(teacher => {
+//         return <Button name={teacher.name} tx={2}/> 
+//       })}
+//     );
+// }
